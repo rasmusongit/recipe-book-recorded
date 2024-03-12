@@ -19,4 +19,5 @@
 - squeeze lime
 - add salt
 - and mix well
+- serve on cold plate
 - enjoy!
